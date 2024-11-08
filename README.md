@@ -1,5 +1,4 @@
-# R3F-Starter
+# R3F-Starter With A Basic Scene
 
 > npm install
 
-**Basic Scene Using R3F.**
