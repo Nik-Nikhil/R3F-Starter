@@ -2,4 +2,4 @@
 
 > npm install OR npm i 
 
-** Basic Scene Using R3F. **
+**Basic Scene Using R3F.**
